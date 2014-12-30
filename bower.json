@@ -1,0 +1,13 @@
+{
+  "name": "ocanvas",
+  "version": "2.7.3",
+  "private": true,
+  "main": [
+    "./build/ocanvas-2.7.3.min.js",
+    "./build/ocanvas-2.7.3.js"
+  ],
+  "ignore": [
+    ".*",
+    "src"
+  ]
+}
