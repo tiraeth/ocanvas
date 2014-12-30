@@ -1,5 +1,5 @@
 /*!
- * oCanvas v2.7.3
+ * oCanvas v2.7.4
  * http://ocanvas.org/
  *
  * Copyright 2011-2014, Johannes Koggdal

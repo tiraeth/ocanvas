@@ -1,7 +1,7 @@
-version = 2.7.3
+version = 2.7.4
 source_dir = ../src/
-output_full = ocanvas-{version}.js
-output_min = ocanvas-{version}.min.js
+output_full = ocanvas.js
+output_min = ocanvas.min.js
 
 head
 -----
